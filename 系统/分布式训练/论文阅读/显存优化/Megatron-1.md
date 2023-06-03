@@ -2,8 +2,6 @@
 
 Megatron针对特别大的transformer模型设计，这篇文章主要是在讲怎么切分Tensor。
 
- 
-
 ## MLP
 
 ![image-20230530235713891](images/image-20230530235713891.png)
